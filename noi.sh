@@ -1,4 +1,4 @@
-!/usr/bin/env bash -l
+#!/usr/bin/env bash -l
 
 # Set NOINSTAGRAM_GITHUB_TOKEN environment variable somewhere
 # In my case, it is set in ~/.bash_profile and gets loaded with the -l parameter above
